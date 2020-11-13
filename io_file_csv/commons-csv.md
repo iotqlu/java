@@ -66,7 +66,7 @@ for (CSVRecord record : records) {
 
 文件[biostats_excel.csv](../assets/data/biostats_excel.csv)是从 Excel 中导出的一个 CSV 格式示例文件.
 
-实现`biostats_excel.csv`文件读取的代码如下所示:
+实现`biostats_excel.csv`文件读取的代码[App.java]("../assets/project/commons-csv-demo/src/main/java/com/iotqlu/java/App.java")如下所示:
 
 ```java
 package com.iotqlu.java;
